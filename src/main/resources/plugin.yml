@@ -1,0 +1,6 @@
+name: Bouncy
+version: '${project.version}'
+main: org.namespace.bouncy.Bouncy
+api-version: 1.17
+authors: [ namspaceprogram ]
+description: Launch yourself and your friends with this plugin

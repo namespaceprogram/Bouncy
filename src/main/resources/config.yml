@@ -1,0 +1,14 @@
+enabled: true
+
+message: true
+launch-message: '&9Whoooooosh!'
+
+# Both of these will error if its not a valid block. It must be the correct name, Link to valid names: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+topblock: 'STONE_PRESSURE_PLATE'
+underblock: 'REDSTONE_BLOCK'
+
+# This is the configuration for how far and high the player wants to go when launching
+y-velocity: 2 # How high
+velocity-multiplier: 0.5 # How Fast
+
+fall-damage: false # Enable or disable if the player takes fall damage
